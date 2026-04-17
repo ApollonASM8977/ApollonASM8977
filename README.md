@@ -22,9 +22,8 @@ class AboubacarSidickMeite:
     email       = "Aboubacarmeite@ymail.com"
 
     education   = {
-        "current" : "M.S. Cybersecurity — Montclair State University (GPA: 3.82)",
-        "degree"  : "B.S. Computer Science — IUGB Grand Bassam (GPA: 3.55)",
-        "grad"    : "May 2026",
+        "current" : "M.S. Cybersecurity — Montclair State University ",
+        "degree"  : "B.S. Computer Science — IUGB Grand Bassam ",
     }
 
     experience  = "IT & Network Security Intern — Sanlam Alliance, Abidjan 🇨🇮"
@@ -39,7 +38,7 @@ class AboubacarSidickMeite:
 
     languages   = ["Français 🇫🇷 (C2 — natif)", "English 🇬🇧 (B2 — professionnel)"]
     hobbies     = ["Chess ♟️", "Martial Arts 🥋", "Music 🎵", "Programming 💻"]
-    available   = "Open to internship — July 2026 (on-site or remote)"
+    available   = "Open to work from any location"
     motto       = "Code with purpose. Build with passion. Hack with ethics."
 ```
 
