@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Security+%26+Cryptography+Enthusiast+%F0%9F%94%90;Algorithm+%26+Data+Structures+Nerd+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=M.S.+Cybersecurity+%40+Montclair+State+University+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Security+%26+Cryptography+Enthusiast+%F0%9F%94%90;TryHackMe+WIZARD+%E2%80%94+Top+4%25+Worldwide+%F0%9F%A7%99;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,25 +15,94 @@
 ## 👤 About Me
 
 ```python
-class ApollonIUGB77:
-    name       = "Aboubacar Sidick Meite"
-    alias      = "ApollonIUGB77"
-    education  = "Computer Science — IUGB (Université des Grandes Écoles)"
-    location   = "Abidjan, Côte d'Ivoire 🇨🇮"
-    languages  = ["French 🇫🇷", "English 🇬🇧"]
+class AboubacarSidickMeite:
+    name        = "Aboubacar Sidick Meite"
+    alias       = "ApollonIUGB77"
+    location    = "Montclair, New Jersey, USA 🇺🇸 | Ivoirien 🇨🇮"
+    email       = "Aboubacarmeite@ymail.com"
 
-    interests  = [
+    education   = {
+        "current" : "M.S. Cybersecurity — Montclair State University (GPA: 3.82)",
+        "degree"  : "B.S. Computer Science — IUGB Grand Bassam (GPA: 3.55)",
+        "grad"    : "May 2026",
+    }
+
+    experience  = "IT & Network Security Intern — Sanlam Alliance, Abidjan 🇨🇮"
+
+    interests   = [
         "Cryptography & Information Security 🔐",
         "Ethical Hacking & CTF Challenges 🕵️",
+        "Network Security & Vulnerability Assessment 🌐",
         "Algorithms & Data Structures 🧠",
         "Full-Stack Web Development 💻",
-        "Number Theory & Math 🔢",
     ]
 
-    tryhackme  = "exterminator · [0xA] WIZARD · Top 4% · 98 rooms"
-    currently  = "Building projects · Hacking CTFs · Learning every day"
-    motto      = "Code with purpose. Build with passion. Hack with ethics."
+    languages   = ["Français 🇫🇷 (C2 — natif)", "English 🇬🇧 (B2 — professionnel)"]
+    hobbies     = ["Chess ♟️", "Martial Arts 🥋", "Music 🎵", "Programming 💻"]
+    available   = "Open to internship — July 2026 (on-site or remote)"
+    motto       = "Code with purpose. Build with passion. Hack with ethics."
 ```
+
+---
+
+## 🔐 Cybersecurity — TryHackMe
+
+<div align="center">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/exterminator.png)](https://tryhackme.com/p/exterminator)
+
+</div>
+
+<div align="center">
+
+| 🏅 Rank | 🌍 Position | 🎖️ Badges | 🏠 Rooms | 📚 Path |
+|:-------:|:-----------:|:---------:|:--------:|:-------:|
+| **[0xA] WIZARD** | **Top 4% mondial** | **21** | **98** | Cyber Security 101 |
+
+</div>
+
+<div align="center">
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-exterminator-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Rank](https://img.shields.io/badge/Rank-0xA%20WIZARD-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Top](https://img.shields.io/badge/Top-4%25%20Worldwide-brightgreen?style=for-the-badge)
+
+</div>
+
+---
+
+## 🛡️ Security Toolkit
+
+<div align="center">
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=for-the-badge&logo=tenable&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-black?style=for-the-badge&logo=gnu&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|:-------------|:------:|:------:|
+| **Certified in Cybersecurity (CC)** — 5 domains | (ISC)² | ✅ Obtenu |
+| **Certified Secure Computer User (CSCU)** — N° ECC5764213098 | EC-Council | ✅ Obtenu |
+| **NSE 2 Network Security Associate** — N° RUByjTECd8 | Fortinet | ✅ Obtenu |
+| **Introduction to Cyber Security** | TryHackMe | ✅ Août 2024 |
+| **CompTIA Security+ & Network+** | CompTIA | 🔄 En cours (2026) |
+
+</div>
 
 ---
 
@@ -63,54 +132,18 @@ class ApollonIUGB77:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Databases**
+**Systems & Networks**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C99?style=for-the-badge&logo=cisco&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🔐 Cybersecurity — TryHackMe
-
-<div align="center">
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/exterminator.png)](https://tryhackme.com/p/exterminator)
-
-</div>
-
-<div align="center">
-
-| 🏅 Rank | 📊 Position | 🎖️ Badges | 🏠 Rooms | 🔥 Streak |
-|:-------:|:-----------:|:---------:|:--------:|:---------:|
-| **[0xA] WIZARD** | **Top 4%** | **21** | **98** | Active |
-
-</div>
-
-<div align="center">
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-exterminator-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Rank](https://img.shields.io/badge/Rank-0xA%20WIZARD-red?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Top](https://img.shields.io/badge/Top-4%25-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-**Skills covered on TryHackMe:**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web%20Security-E34F26?style=flat-square&logo=owasp&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-6C3483?style=flat-square&logo=gnuprivacyguard&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-FF6B35?style=flat-square&logo=google&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-FF0000?style=flat-square&logo=gnu&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF%20Player-212C42?style=flat-square&logo=hackthebox&logoColor=white)
 
 </div>
 
@@ -128,7 +161,7 @@ class ApollonIUGB77:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ApollonIUGB77&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ApollonIUGB77&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 
 </div>
 
@@ -174,9 +207,17 @@ class ApollonIUGB77:
 
 <div align="center">
 
-**"First, solve the problem. Then, write the code."**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aboubacar%20Sidick%20Meite-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aboubacar-sidick-meite-b5b309276)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-exterminator-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/exterminator)
+[![GitHub](https://img.shields.io/badge/GitHub-ApollonIUGB77-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApollonIUGB77)
 
-*— John Johnson*
+</div>
+
+---
+
+<div align="center">
+
+**"First, solve the problem. Then, write the code."**
 
 <br/>
 
