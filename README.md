@@ -23,14 +23,16 @@ class ApollonIUGB77:
     languages  = ["French 🇫🇷", "English 🇬🇧"]
 
     interests  = [
-        "Cryptography & Information Security",
-        "Algorithms & Data Structures",
-        "Full-Stack Web Development",
-        "Number Theory & Math",
+        "Cryptography & Information Security 🔐",
+        "Ethical Hacking & CTF Challenges 🕵️",
+        "Algorithms & Data Structures 🧠",
+        "Full-Stack Web Development 💻",
+        "Number Theory & Math 🔢",
     ]
 
-    currently  = "Building projects · Learning every day"
-    motto      = "Code with purpose. Build with passion."
+    tryhackme  = "exterminator · [0xA] WIZARD · Top 4% · 98 rooms"
+    currently  = "Building projects · Hacking CTFs · Learning every day"
+    motto      = "Code with purpose. Build with passion. Hack with ethics."
 ```
 
 ---
@@ -72,6 +74,43 @@ class ApollonIUGB77:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🔐 Cybersecurity — TryHackMe
+
+<div align="center">
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/exterminator.png)](https://tryhackme.com/p/exterminator)
+
+</div>
+
+<div align="center">
+
+| 🏅 Rank | 📊 Position | 🎖️ Badges | 🏠 Rooms | 🔥 Streak |
+|:-------:|:-----------:|:---------:|:--------:|:---------:|
+| **[0xA] WIZARD** | **Top 4%** | **21** | **98** | Active |
+
+</div>
+
+<div align="center">
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-exterminator-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Rank](https://img.shields.io/badge/Rank-0xA%20WIZARD-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Top](https://img.shields.io/badge/Top-4%25-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+**Skills covered on TryHackMe:**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web%20Security-E34F26?style=flat-square&logo=owasp&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-6C3483?style=flat-square&logo=gnuprivacyguard&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-FF6B35?style=flat-square&logo=google&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-FF0000?style=flat-square&logo=gnu&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF%20Player-212C42?style=flat-square&logo=hackthebox&logoColor=white)
 
 </div>
 
