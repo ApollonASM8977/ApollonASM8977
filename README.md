@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aboubacar%20Sidick%20Meite&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ApollonIUGB77&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aboubacar%20Sidick%20Meite&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ApollonASM8977&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 ```python
 class AboubacarSidickMeite:
     name        = "Aboubacar Sidick Meite"
-    alias       = "ApollonIUGB77"
+    alias       = "ApollonASM8977"
     location    = "Montclair, New Jersey, USA 🇺🇸 | Ivoirien 🇨🇮"
     email       = "Aboubacarmeite@ymail.com"
 
@@ -152,15 +152,15 @@ class AboubacarSidickMeite:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApollonIUGB77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApollonASM8977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApollonIUGB77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApollonASM8977&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ApollonIUGB77&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ApollonASM8977&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 
 </div>
 
@@ -172,13 +172,13 @@ class AboubacarSidickMeite:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🔐 CipherLab](https://github.com/ApollonIUGB77/CipherLab) | Complete cipher toolkit — AES, RSA, DES, Caesar, Vigenère, Base64 and more | Python · React · FastAPI |
-| [🔏 PolySubCipher](https://github.com/ApollonIUGB77/PolySubCipher) | Polyalphabetic substitution cipher with step-by-step trace | Python · React · FastAPI |
-| [🔢 CryptoMath](https://github.com/ApollonIUGB77/CryptoMath) | RSA, Diffie-Hellman, prime algorithms, modular arithmetic from scratch | Pure Python |
-| [🧮 AlgoToolkit](https://github.com/ApollonIUGB77/AlgoToolkit) | 8 sorting · 6 searching · 6 data structures · 5 graph algorithms | Java · Python |
-| [🌐 NumerologieWeb](https://github.com/ApollonIUGB77/NumerologieWeb) | Numerology web app — life path, compatibility, mystical analysis | Python · React · FastAPI |
-| [🛡️ FileIntegrityWeb](https://github.com/ApollonIUGB77/FileIntegrityWeb) | File integrity checker using SHA-256/MD5 hashing | Python · React · FastAPI |
-| [🏦 Atlas Money](https://github.com/ApollonIUGB77/bank.atlas.bk) | Mobile money web application (send money, history, admin) | PHP · MySQL |
+| [🔐 CipherLab](https://github.com/ApollonASM8977/CipherLab) | Complete cipher toolkit — AES, RSA, DES, Caesar, Vigenère, Base64 and more | Python · React · FastAPI |
+| [🔏 PolySubCipher](https://github.com/ApollonASM8977/PolySubCipher) | Polyalphabetic substitution cipher with step-by-step trace | Python · React · FastAPI |
+| [🔢 CryptoMath](https://github.com/ApollonASM8977/CryptoMath) | RSA, Diffie-Hellman, prime algorithms, modular arithmetic from scratch | Pure Python |
+| [🧮 AlgoToolkit](https://github.com/ApollonASM8977/AlgoToolkit) | 8 sorting · 6 searching · 6 data structures · 5 graph algorithms | Java · Python |
+| [🌐 NumerologieWeb](https://github.com/ApollonASM8977/NumerologieWeb) | Numerology web app — life path, compatibility, mystical analysis | Python · React · FastAPI |
+| [🛡️ FileIntegrityWeb](https://github.com/ApollonASM8977/FileIntegrityWeb) | File integrity checker using SHA-256/MD5 hashing | Python · React · FastAPI |
+| [🏦 Atlas Money](https://github.com/ApollonASM8977/bank.atlas.bk) | Mobile money web application (send money, history, admin) | PHP · MySQL |
 
 </div>
 
@@ -188,7 +188,7 @@ class AboubacarSidickMeite:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApollonIUGB77&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApollonASM8977&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -198,7 +198,7 @@ class AboubacarSidickMeite:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ApollonIUGB77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ApollonASM8977&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
@@ -208,7 +208,7 @@ class AboubacarSidickMeite:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aboubacar%20Sidick%20Meite-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aboubacar-sidick-meite-b5b309276)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-exterminator-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/exterminator)
-[![GitHub](https://img.shields.io/badge/GitHub-ApollonIUGB77-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApollonIUGB77)
+[![GitHub](https://img.shields.io/badge/GitHub-ApollonASM8977-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApollonASM8977)
 
 </div>
 
@@ -220,7 +220,7 @@ class AboubacarSidickMeite:
 
 <br/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=ApollonIUGB77&label=Profile+Views&color=a855f7&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=ApollonASM8977&label=Profile+Views&color=a855f7&style=flat-square)
 
 </div>
 
@@ -231,5 +231,6 @@ class AboubacarSidickMeite:
 </div>
 
 <div align="right">
-<sub>© 2026 Aboubacar Sidick Meite (ApollonIUGB77)</sub>
+<sub>© 2026 Aboubacar Sidick Meite (ApollonASM8977)</sub>
 </div>
+
