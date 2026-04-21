@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=M.S.+Cybersecurity+%40+Montclair+State+University+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Security+%26+Cryptography+Enthusiast+%F0%9F%94%90;TryHackMe+WIZARD+%E2%80%94+Top+4%25+Worldwide+%F0%9F%A7%99;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=MM.S.+Cybersecurity+%40+Montclair+State+University+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Security+%26+Cryptography+Enthusiast+%F0%9F%94%90;TryHackMe+WIZARD+%E2%80%94+Top+4%25+Worldwide+%F0%9F%A7%99;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ class AboubacarSidickMeite:
         "degree"  : "B.S. Computer Science — IUGB Grand Bassam ",
     }
 
-    experience  = "IT & Network Security Intern — Sanlam Alliance, Abidjan 🇨🇮"
+    experience  = "IT & Network Security — Sanlam Alliance, Abidjan 🇨🇮"
 
     interests   = [
         "Cryptography & Information Security 🔐",
