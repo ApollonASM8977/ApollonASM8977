@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aboubacar%20Sidick%20Meite&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ApollonASM8977&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
