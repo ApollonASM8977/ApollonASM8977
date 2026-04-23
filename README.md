@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=MM.S.+Cybersecurity+%40+Montclair+State+University+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Security+%26+Cryptography+Enthusiast+%F0%9F%94%90;TryHackMe+WIZARD+%E2%80%94+Top+4%25+Worldwide+%F0%9F%A7%99;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=680&lines=M.S.+Cybersecurity+%40+Montclair+State+University+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Security+%26+Cryptography+Enthusiast+%F0%9F%94%90;TryHackMe+WIZARD+%E2%80%94+Top+4%25+Worldwide+%F0%9F§%99;CTF+Player+%7C+Ethical+Hacker+%F0%9F%95%B5%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,11 +19,10 @@ class AboubacarSidickMeite:
     name        = "Aboubacar Sidick Meite"
     alias       = "ApollonASM8977"
     location    = "Montclair, New Jersey, USA 🇺🇸 | Ivoirien 🇨🇮"
-    email       = "Aboubacarmeite@ymail.com"
 
     education   = {
-        "current" : "M.S. Cybersecurity — Montclair State University ",
-        "degree"  : "B.S. Computer Science — IUGB Grand Bassam ",
+        "current" : "M.S. Cybersecurity — Montclair State University",
+        "degree"  : "B.S. Computer Science — IUGB Grand Bassam",
     }
 
     experience  = "IT & Network Security — Sanlam Alliance, Abidjan 🇨🇮"
@@ -34,6 +33,7 @@ class AboubacarSidickMeite:
         "Network Security & Vulnerability Assessment 🌐",
         "Algorithms & Data Structures 🧠",
         "Full-Stack Web Development 💻",
+        "Mobile Development (Flutter) 📱",
     ]
 
     languages   = ["Français 🇫🇷 (C2 — natif)", "English 🇬🇧 (B2 — professionnel)"]
@@ -56,7 +56,7 @@ class AboubacarSidickMeite:
 
 | 🏅 Rank | 🌍 Position | 🎖️ Badges | 🏠 Rooms | 📚 Path |
 |:-------:|:-----------:|:---------:|:--------:|:-------:|
-| **[0xA] WIZARD** | **Top 4% mondial** | **21** | **98** | Cyber Security 101 |
+| **[0xA] WIZARD** | **Top 4% mondial** | **21** | **98** | Cyber Security 101 ✅ |
 
 </div>
 
@@ -65,6 +65,23 @@ class AboubacarSidickMeite:
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-exterminator-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Rank](https://img.shields.io/badge/Rank-0xA%20WIZARD-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Top](https://img.shields.io/badge/Top-4%25%20Worldwide-brightgreen?style=for-the-badge)
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|:-------------|:------:|:------:|
+| **Certified in Cybersecurity (CC)** — 5 domains | (ISC)² | ✅ Obtained |
+| **Certified Secure Computer User (CSCU)** — N° ECC5764213098 | EC-Council | ✅ Obtained |
+| **NSE 2 Network Security Associate** — N° RUByjTECd8 | Fortinet | ✅ Obtained |
+| **Introduction to Cyber Security** | TryHackMe | ✅ Aug 2024 |
+| **Pre Security Path** | TryHackMe | ✅ Sep 2024 |
+| **CompTIA Security+ & Network+** | CompTIA | 🔄 In progress (2026) |
 
 </div>
 
@@ -89,22 +106,6 @@ class AboubacarSidickMeite:
 
 ---
 
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Status |
-|:-------------|:------:|:------:|
-| **Certified in Cybersecurity (CC)** — 5 domains | (ISC)² | ✅ Obtenu |
-| **Certified Secure Computer User (CSCU)** — N° ECC5764213098 | EC-Council | ✅ Obtenu |
-| **NSE 2 Network Security Associate** — N° RUByjTECd8 | Fortinet | ✅ Obtenu |
-| **Introduction to Cyber Security** | TryHackMe | ✅ Août 2024 |
-| **CompTIA Security+ & Network+** | CompTIA | 🔄 En cours (2026) |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -115,12 +116,14 @@ class AboubacarSidickMeite:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -130,6 +133,7 @@ class AboubacarSidickMeite:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Systems & Networks**
 
@@ -143,6 +147,7 @@ class AboubacarSidickMeite:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -154,13 +159,13 @@ class AboubacarSidickMeite:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApollonASM8977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApollonASM8977&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApollonASM8977&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ApollonASM8977&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ApollonASM8977&theme=tokyonight&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 
 </div>
 
@@ -172,13 +177,14 @@ class AboubacarSidickMeite:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🔐 CipherLab](https://github.com/ApollonASM8977/CipherLab) | Complete cipher toolkit — AES, RSA, DES, Caesar, Vigenère, Base64 and more | Python · React · FastAPI |
+| [🧑‍💻 HackerPortfolio](https://github.com/ApollonASM8977/HackerPortfolio) | Cybersecurity portfolio with CTF challenges, writeups, live terminal | React · TypeScript · Vite |
+| [🔐 CipherLab](https://github.com/ApollonASM8977/CipherLab) | Complete cipher toolkit — AES, RSA, DES, Caesar, Vigenère, Base64 | Python · React · FastAPI |
 | [🔏 PolySubCipher](https://github.com/ApollonASM8977/PolySubCipher) | Polyalphabetic substitution cipher with step-by-step trace | Python · React · FastAPI |
-| [🔢 CryptoMath](https://github.com/ApollonASM8977/CryptoMath) | RSA, Diffie-Hellman, prime algorithms, modular arithmetic from scratch | Pure Python |
+| [🔢 CryptoMath](https://github.com/ApollonASM8977/CryptoMath) | RSA, Diffie-Hellman, prime algorithms, modular arithmetic | Pure Python |
+| [🛡️ FileIntegrityWeb](https://github.com/ApollonASM8977/FileIntegrityWeb) | File integrity checker — SHA-256/512/MD5 + HMAC signatures | Python · React · FastAPI |
+| [🏦 Atlas Money](https://github.com/ApollonASM8977/bank.atlas.bk) | Mobile money web app — send money, history, admin panel | PHP · MySQL |
+| [🚖 CommuTaxi](https://github.com/ApollonASM8977/TaxiApp-Users) | Ride-hailing mobile app — Firebase auth, real-time GPS | Flutter · Dart · Firebase |
 | [🧮 AlgoToolkit](https://github.com/ApollonASM8977/AlgoToolkit) | 8 sorting · 6 searching · 6 data structures · 5 graph algorithms | Java · Python |
-| [🌐 NumerologieWeb](https://github.com/ApollonASM8977/NumerologieWeb) | Numerology web app — life path, compatibility, mystical analysis | Python · React · FastAPI |
-| [🛡️ FileIntegrityWeb](https://github.com/ApollonASM8977/FileIntegrityWeb) | File integrity checker using SHA-256/MD5 hashing | Python · React · FastAPI |
-| [🏦 Atlas Money](https://github.com/ApollonASM8977/bank.atlas.bk) | Mobile money web application (send money, history, admin) | PHP · MySQL |
 
 </div>
 
@@ -198,7 +204,7 @@ class AboubacarSidickMeite:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ApollonASM8977&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ApollonASM8977&theme=tokyonight&no-frame=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 
 </div>
 
@@ -216,7 +222,7 @@ class AboubacarSidickMeite:
 
 <div align="center">
 
-**"First, solve the problem. Then, write the code."**
+*"First, solve the problem. Then, write the code."*
 
 <br/>
 
@@ -233,4 +239,3 @@ class AboubacarSidickMeite:
 <div align="right">
 <sub>© 2026 Aboubacar Sidick Meite (ApollonASM8977)</sub>
 </div>
-
