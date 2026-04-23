@@ -204,7 +204,7 @@ class AboubacarSidickMeite:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ApollonASM8977&theme=tokyonight&no-frame=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ApollonASM8977&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4"/>
 
 </div>
 
