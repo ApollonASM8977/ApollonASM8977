@@ -200,11 +200,15 @@ class AboubacarSidickMeite:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ApollonASM8977&theme=darkhub&no-frame=true&margin-w=6&column=4" alt="GitHub Trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ApollonASM8977/ApollonASM8977/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ApollonASM8977/ApollonASM8977/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ApollonASM8977/ApollonASM8977/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
